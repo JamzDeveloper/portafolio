@@ -1,0 +1,30 @@
+{
+  "name": "portafoliospa",
+  "version": "1.0.0",
+  "description": "portafolio personal @JamzDeveloper spa",
+  "main": "src/app.js",
+  "devDependencies": {
+    "css-loader": "^5.2.4",
+    "file-loader": "^6.2.0",
+    "html-loader": "^2.1.2",
+    "html-webpack-plugin": "^5.3.1",
+    "image-webpack-loader": "^7.0.1",
+    "mini-css-extract-plugin": "^1.5.0",
+    "style-loader": "^2.0.0",
+    "webpack": "^5.33.2",
+    "webpack-cli": "^4.6.0",
+    "webpack-dev-server": "^3.11.2"
+  },
+  "scripts": {
+    "dev": "webpack --mode development",
+    "build": "webpack --mode production",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack serve --mode development --open --port 3000"
+  },
+  "keywords": [
+    "portafolio",
+    "JamzDeveloper"
+  ],
+  "author": "José Montenegro Zelada <jamzdeveloper@gmail.com>",
+  "license": "ISC"
+}
