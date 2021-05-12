@@ -1,6 +1,7 @@
 
 //import  views from '../views/home.html';
 import img_home from "../assets/img_content_home.png";
+
  export default ()=>{
      const divElement = document.createElement('div');
      divElement.classList ="view-home";
@@ -18,7 +19,14 @@ import img_home from "../assets/img_content_home.png";
              </button>
          </div>
          <div class="container-img-home">
-             <img src="${img_home}" alt="" class="img-home">
+         <model-viewer src="jamz.glb" shadow-softness="0.1" camera-controls shadow-intensity="1.5" autoplay
+         animation-name="armature">
+         <div class="progress-bar hide" slot="progress-bar">
+           <div class="update-bar"></div>
+         </div>
+     
+     
+       </model-viewer>
          </div>
      </div>
      <div class="container-button-resume">
