@@ -27,7 +27,7 @@ import logo_git from "../assets/skills logos/git-icon.svg";
 
          </div>
          <div class="content-presentation-img">
-             <img src="${img_sobre_mi}" alt=""class="presentation-img">
+             <img src="https://res.cloudinary.com/duhbmesjr/image/upload/v1620852822/portafolio/version%201.0/assets/Developer_activity-bro_khqnq0.svg" alt=""class="presentation-img">
          </div>
      </article>
      <article class="content-skills">
@@ -38,7 +38,7 @@ import logo_git from "../assets/skills logos/git-icon.svg";
              <div class="skills-element">
                  <figure>
 
-                     <img src="${logo_hmtl}" alt="">
+                     <img src="https://res.cloudinary.com/duhbmesjr/image/upload/v1620852824/portafolio/version%201.0/assets/html_rjv64l.png" alt="">
                      <div class="cloak">
                          <h3>HTML5</h3>
                       
@@ -49,7 +49,7 @@ import logo_git from "../assets/skills logos/git-icon.svg";
              <div class="skills-element">
                  <figure>
 
-                     <img src="${logo_css}" alt="">
+                     <img src="https://res.cloudinary.com/duhbmesjr/image/upload/v1620852822/portafolio/version%201.0/assets/css-5_ddx6qq.svg" alt="">
                      <div class="cloak">
                          <h3>CSS3</h3>
                        
@@ -60,7 +60,7 @@ import logo_git from "../assets/skills logos/git-icon.svg";
              <div class="skills-element">
                  <figure>
 
-                     <img src="${logo_javascript}" alt="">
+                     <img src="https://res.cloudinary.com/duhbmesjr/image/upload/v1620852825/portafolio/version%201.0/assets/logo-javascript_giqnbx.svg" alt="">
                      <div class="cloak">
                          <h3>JAVASCRIPT</h3>
                         
@@ -71,7 +71,7 @@ import logo_git from "../assets/skills logos/git-icon.svg";
              <div class="skills-element">
                  <figure>
 
-                     <img src="${logo_webpack}" alt="">
+                     <img src="https://res.cloudinary.com/duhbmesjr/image/upload/v1620852827/portafolio/version%201.0/assets/webpack-icon_wi8zcy.svg" alt="">
                      <div class="cloak">
                          <h3>WEBPACK</h3>
                       
@@ -82,7 +82,7 @@ import logo_git from "../assets/skills logos/git-icon.svg";
              <div class="skills-element">
                  <figure>
 
-                     <img src="${logo_bootstrap}" alt="">
+                     <img src="https://res.cloudinary.com/duhbmesjr/image/upload/v1620852821/portafolio/version%201.0/assets/bootstrap-4_epdcj8.svg" alt="">
                      <div class="cloak">
                          <h3>BOOTSTRAP</h3>
                          </div>
@@ -92,7 +92,7 @@ import logo_git from "../assets/skills logos/git-icon.svg";
              <div class="skills-element">
                  <figure>
 
-                     <img src="${logo_figma}" alt="">
+                     <img src="https://res.cloudinary.com/duhbmesjr/image/upload/v1620852821/portafolio/version%201.0/assets/figma-1_etrjc9.svg" alt="">
                      <div class="cloak">
                          <h3>FIGMA</h3>
                        
@@ -103,7 +103,7 @@ import logo_git from "../assets/skills logos/git-icon.svg";
              <div class="skills-element">
                  <figure>
 
-                     <img src="${logo_mysql}" alt="">
+                     <img src="https://res.cloudinary.com/duhbmesjr/image/upload/v1620852826/portafolio/version%201.0/assets/MySQL_xqmhrr.png" alt="">
                      <div class="cloak">
                          <h3>MySQL</h3>
                        
@@ -114,7 +114,7 @@ import logo_git from "../assets/skills logos/git-icon.svg";
              <div class="skills-element">
                  <figure>
 
-                     <img src="${logo_nodejs}" alt="">
+                     <img src="https://res.cloudinary.com/duhbmesjr/image/upload/v1620852827/portafolio/version%201.0/assets/nodejs-1_dstxls.svg" alt="">
                      <div class="cloak">
                          <h3>NODEJS</h3>
                        
@@ -125,7 +125,7 @@ import logo_git from "../assets/skills logos/git-icon.svg";
              <div class="skills-element">
                  <figure>
 
-                     <img src="${logo_git}" alt="">
+                     <img src="https://res.cloudinary.com/duhbmesjr/image/upload/v1620852824/portafolio/version%201.0/assets/git-icon_yhq3ly.svg" alt="">
                      <div class="cloak">
                          <h3>GIT</h3>
                          </div>

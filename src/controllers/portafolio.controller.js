@@ -9,7 +9,7 @@ import img_portafolio from "../assets/img_portafolio.png";
      <div class="portafolio-container-card">
          <figure>
 
-             <img src="${img_portafolio}" alt="">
+             <img src="https://res.cloudinary.com/duhbmesjr/image/upload/v1620852825/portafolio/version%201.0/assets/img_portafolio_uoizev.png" alt="">
              <div class="portafolio-container-card-capa">
                  <div class="portafolio-container-content-projects">
 
@@ -28,7 +28,7 @@ import img_portafolio from "../assets/img_portafolio.png";
      <div class="portafolio-container-card">
          <figure>
 
-             <img src="${img_portafolio}" alt="">
+             <img src="https://res.cloudinary.com/duhbmesjr/image/upload/v1620852825/portafolio/version%201.0/assets/img_portafolio_uoizev.png" alt="">
              <div class="portafolio-container-card-capa">
                  <div class="portafolio-container-content-projects">
 
@@ -47,7 +47,7 @@ import img_portafolio from "../assets/img_portafolio.png";
      <div class="portafolio-container-card">
          <figure>
 
-             <img src="${img_portafolio}" alt="">
+             <img src="https://res.cloudinary.com/duhbmesjr/image/upload/v1620852825/portafolio/version%201.0/assets/img_portafolio_uoizev.png" alt="">
              <div class="portafolio-container-card-capa">
                  <div class="portafolio-container-content-projects">
 
@@ -66,7 +66,7 @@ import img_portafolio from "../assets/img_portafolio.png";
      <div class="portafolio-container-card">
          <figure>
 
-             <img src="${img_portafolio}" alt="">
+             <img src="https://res.cloudinary.com/duhbmesjr/image/upload/v1620852825/portafolio/version%201.0/assets/img_portafolio_uoizev.png" alt="">
              <div class="portafolio-container-card-capa">
                  <div class="portafolio-container-content-projects">
 
@@ -85,7 +85,7 @@ import img_portafolio from "../assets/img_portafolio.png";
      <div class="portafolio-container-card">
          <figure>
 
-             <img src="${img_portafolio}" alt="">
+             <img src="https://res.cloudinary.com/duhbmesjr/image/upload/v1620852825/portafolio/version%201.0/assets/img_portafolio_uoizev.png" alt="">
              <div class="portafolio-container-card-capa">
                  <div class="portafolio-container-content-projects">
 
@@ -104,7 +104,7 @@ import img_portafolio from "../assets/img_portafolio.png";
      <div class="portafolio-container-card">
          <figure>
 
-             <img src="${img_portafolio}" alt="">
+             <img src="https://res.cloudinary.com/duhbmesjr/image/upload/v1620852825/portafolio/version%201.0/assets/img_portafolio_uoizev.png" alt="">
              <div class="portafolio-container-card-capa">
                  <div class="portafolio-container-content-projects">
 
@@ -123,7 +123,7 @@ import img_portafolio from "../assets/img_portafolio.png";
      <div class="portafolio-container-card">
          <figure>
 
-             <img src="${img_portafolio}" alt="">
+             <img src="https://res.cloudinary.com/duhbmesjr/image/upload/v1620852825/portafolio/version%201.0/assets/img_portafolio_uoizev.png" alt="">
              <div class="portafolio-container-card-capa">
                  <div class="portafolio-container-content-projects">
 

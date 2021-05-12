@@ -1,6 +1,7 @@
 
 //import  views from '../views/home.html';
 import img_home from "../assets/img_content_home.png";
+import modelJamz from "../assets/models/JamzDeveloper.glb"
 
  export default ()=>{
      const divElement = document.createElement('div');
@@ -19,7 +20,7 @@ import img_home from "../assets/img_content_home.png";
              </button>
          </div>
          <div class="container-img-home">
-         <model-viewer src="jamz.glb" shadow-softness="0.1" camera-controls shadow-intensity="1.5" autoplay
+         <model-viewer class="model-3d" src="${modelJamz}" shadow-softness="0.1" camera-controls shadow-intensity="1.5" autoplay
          animation-name="armature">
          <div class="progress-bar hide" slot="progress-bar">
            <div class="update-bar"></div>

@@ -24,6 +24,19 @@ module.exports = {
               ],
             },*/
             {
+              test: /\.(glb|gltf)$/,
+              use:
+              [
+                  {
+                      loader: 'file-loader',
+                      options:
+                      {
+                          outputPath: 'assets/models/'
+                      }
+                  }
+              ]
+          },
+            {
                 test: /\.css$/i,
                 /*use: [MiniCssExtractPlugin.loader, "css-loader"],*/
                 use: [
