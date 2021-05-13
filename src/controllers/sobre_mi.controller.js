@@ -10,21 +10,19 @@ import logo_mysql from "../assets/skills logos/MySQL.png";
 import logo_nodejs from "../assets/skills logos/nodejs-1.svg";
 import logo_git from "../assets/skills logos/git-icon.svg";
 
-
- export default ()=>{
-     const divElement = document.createElement('div');
-     divElement.classList ="view-sobre-mi";
-     divElement.innerHTML =`
+export default () => {
+  const divElement = document.createElement("div");
+  divElement.classList = "view-sobre-mi";
+  divElement.innerHTML = `
      <article class="content-presentation">
          <div class="content-presentation-text">
              <h3 class="presentation-text-title">¿QUIÉN SOY?</h3>
-             <p class="presentationn-text-content">Soy Jose Montenegro un fronted developer, estudiante <br> de informatica y autodidacta, apacionado por la tecnologia <br>y
-                 la educación..</p>
+             <p class="presentationn-text-content">Soy José Montenegro un fronted developer, estudiante <br> de informática y autodidacta, apasionado por la tecnología <br>y
+                 la educación.</p>
              <h3 class="presentation-text-title">INTERESES</h3>
-             <p class="presentationn-text-content">Soy amante de la programacion, actualmente me encuentro<br> enfocado en las tecnologias web principalmente <br>en javascript, y la creacion de aplicaciones web con react.</p>
+             <p class="presentationn-text-content">Soy amante de la programación, actualmente me encuentro<br> enfocado en las tecnologías web principalmente <br>en JavaScript, y la creación de aplicaciones web con React.</p>
              <h3 class="presentation-text-title">OBJETIVOS</h3>
-             <p class="presentationn-text-content">Me encuentro en busca de retos profesionales que me ayuden <br> a adquirir experiencia en proyecto, como tambien aprender<br> constantemete nuevas tecnologias y formas de mejorar mis <br>habilidades.</p>
-
+             <p class="presentationn-text-content">Me encuentro en busca de retos profesionales que me ayuden <br> a adquirir experiencia en proyecto, como también aprender<br> constantemente nuevas tecnologías y formas de mejorar mis <br>habilidades.</p>
          </div>
          <div class="content-presentation-img">
              <img src="https://res.cloudinary.com/duhbmesjr/image/upload/v1620852822/portafolio/version%201.0/assets/Developer_activity-bro_khqnq0.svg" alt=""class="presentation-img">
@@ -135,7 +133,7 @@ import logo_git from "../assets/skills logos/git-icon.svg";
 
          </div>
      </div>
-     </article>`
+     </article>`;
 
-     return divElement;
- };
+  return divElement;
+};

@@ -25,7 +25,9 @@
 .view-aprende-conmigo {
   background-color: var(--background-color);
 }
-
+.nav a{
+  text-decoration: none;
+}
 .nav {
   display: flex;
   /* border-bottom: 2px solid #585858 ;*/
@@ -38,6 +40,9 @@
   background: var(--background-color);
   box-shadow: var(--color-nav-box);
   z-index: 100;
+}
+.nav a{
+  text-decoration: none;
 }
 /*TODO button nav*/
 .button-menu {
@@ -533,6 +538,7 @@ max-width: 700px;
     height: 15px;
   }
   .container-links-visible {
+
     transition: 0.2s;
     visibility: visible;
     position: absolute;
@@ -591,29 +597,29 @@ max-width: 700px;
 .container-img-home{
   margin-top: -150px;
   background:var(--background-color);
+  
 
 }
 model-viewer {
+  
   width: 700px;
   height: 700px;
-  background:var(--background-color);
+
 
 }
 @media(max-width: 1000px){
   .model-3d{
-    transition:1s;
 
     width: 500px;
-    height: 600px;
+    height: 500px;
   }
 }
 @media(max-width: 500px){
   .model-3d{
     width: 400px;
-    height: 500px;
+    height: 400px;
   }
   .container-img-home{
-    transition:1s;
     margin-top: -30px;
   
   }
@@ -622,10 +628,9 @@ model-viewer {
   .model-3d{
 
     width: 280px;
-    height: 380px;
+    height: 280px;
   }
   .container-img-home{
-    transition:1s;
 
     margin-top: 0px;
   
@@ -633,7 +638,8 @@ model-viewer {
 }
 
 .progress-bar {
-  display: block;
+
+  margin-top: 120px;
   width: 33%;
   height: 10%;
   max-height: 2%;
@@ -648,11 +654,13 @@ model-viewer {
 }
 
 .progress-bar.hide {
+  
   visibility: hidden;
   transition: visibility 0.3s;
 }
 
 .update-bar {
+  
   background-color: rgba(20, 20, 20, 0.9);
   width: 0%;
   height: 100%;
@@ -660,46 +668,5 @@ model-viewer {
   float: left;
   transition: width 0.3s;
 }
-/*
-@media(prefers-color-scheme:dark){
-    .nav{
-        background: var(--background-dark);
-        box-shadow: 0 2px 4px -1px rgb(255 255 255 / 20%), 0 4px 5px 0 rgb(255 255 255 / 14%), 0 1px 10px 0 rgb(0 0 0 / 12%);
 
-    }
-    .logo-img.dark{
-        display:none;
-    }
-    .logo-img.white{
-        display:inline;
-    }
-    .logo-name{
-        color:var(--primary-text);
-    }
-    .logo-name span{
-        color:var(--primary-text);
-    }
-    .button-dark{
-        background:white;
-    }
-    .container-links p{
-        color: white;
-    }
-    .luna{
-        display: none;
-    }
-    .sol{
-        display: inline;
-        min-width:40px;
-    }
-    /*Home*/
-/* .home{
-        background:var(--background-dark);
-        color:white;
-    }
-    .container-description .frontend-developer{
-        color: white;
-    }
-    
-    
-}*/
+
