@@ -1,10 +1,8 @@
-
-
-import img_portafolio from "../assets/img_portafolio.png";
- export default ()=>{
-     const divElement = document.createElement('div');
-     divElement.classList ="view-home";
-     divElement.innerHTML =`  <div class="portafolio-container">
+export default () => {
+  //import img_portafolio from "../assets/img_portafolio.png";
+  const divElement = document.createElement("div");
+  divElement.classList = "view-home";
+  divElement.innerHTML = `  <div class="portafolio-container">
 
      <div class="portafolio-container-card">
          <figure>
@@ -139,7 +137,7 @@ import img_portafolio from "../assets/img_portafolio.png";
              </div>
          </figure>
      </div>
- </div>`
+ </div>`;
 
-     return divElement;
- };
+  return divElement;
+};

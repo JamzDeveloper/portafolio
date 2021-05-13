@@ -1,7 +1,7 @@
 
 //import  views from '../views/home.html';
 import img_home from "../assets/img_content_home.png";
-import modelJamz from "../assets/models/JamzDeveloper.glb"
+import modelJamz from "../assets/models/JamzDeveloperv2.glb"
 
  export default ()=>{
      const divElement = document.createElement('div');
@@ -9,7 +9,7 @@ import modelJamz from "../assets/models/JamzDeveloper.glb"
      divElement.innerHTML =` <article class="home">
      <div class="container-dat-home">
          <div class="container-description">
-             <p>Hola soy, <span>José Montenegro</span></p>
+             <p>Hola soy, <span> José Montenegro</span></p>
              <h3 class="frontend-developer">Frontend Developer</h3>
              <p class="content">Soy apasionado con la tecnología y con la educación lo 
                  <br>que ocasiona a que constantemente siga aprendiendo,
@@ -20,7 +20,7 @@ import modelJamz from "../assets/models/JamzDeveloper.glb"
              </button>
          </div>
          <div class="container-img-home">
-         <model-viewer class="model-3d" disable-zoom
+         <model-viewer class="model-3d"
          poster="https://res.cloudinary.com/duhbmesjr/image/upload/v1620881283/portafolio/version%201.0/assets/perfilpng_d0hzev.png" src="${modelJamz}" shadow-softness="0.1" camera-controls shadow-intensity="1.5" autoplay
          animation-name="armature">
       <!--   <div class="progress-bar hide" slot="progress-bar">
