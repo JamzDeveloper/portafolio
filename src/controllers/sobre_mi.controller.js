@@ -68,7 +68,7 @@ export default () => {
 
              </div>
              <div class="skills-element">
-
+ 
                  <figure>
                     
                  <img src="https://res.cloudinary.com/duhbmesjr/image/upload/v1620966625/portafolio/version%201.0/assets/react-2_eed3as.svg" alt="logo react">
