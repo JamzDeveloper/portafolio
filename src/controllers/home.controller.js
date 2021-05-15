@@ -1,12 +1,11 @@
-
 //import  views from '../views/home.html';
 import img_home from "../assets/img_content_home.png";
-import modelJamz from "../assets/models/JamzDeveloperv2.glb"
+import modelJamz from "../assets/models/JamzDeveloperv2.glb";
 
- export default ()=>{
-     const divElement = document.createElement('div');
-     divElement.classList ="view-home";
-     divElement.innerHTML =` <article class="home">
+export default () => {
+  const divElement = document.createElement("div");
+  divElement.classList = "view-home";
+  divElement.innerHTML = ` <article class="home">
      <div class="container-dat-home">
          <div class="container-description">
              <p>Hola soy, <span> José Montenegro</span></p>
@@ -35,7 +34,7 @@ import modelJamz from "../assets/models/JamzDeveloperv2.glb"
          <button class="resumen"><h3>DESCARGAR HOJA DE VIDA</h3></button>
          
      </div>
- </article>`
+ </article>`;
 
-     return divElement;
- };
+  return divElement;
+};

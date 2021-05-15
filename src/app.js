@@ -2,6 +2,7 @@ import "./style.css";
 import { router } from "./router/index.routes";
 //
 ///*nav*/
+
 /**resource nav */
 import logo_dark from "./assets/logo.png";
 import logo_white from "./assets/logo-white.png";
@@ -71,7 +72,7 @@ button_menu.addEventListener("click", () => {
 router(window.location.hash);
 
 window.addEventListener("hashchange", () => {
-  menu.classList.toggle("container-links-visible");
+  menu.classList.remove("container-links-visible");
 
   router(window.location.hash);
 });
@@ -82,7 +83,7 @@ const onProgress = (event) => {
   
     updatingBar.style.width = `${event.detail.totalProgress * 100}%`;
   
-    console.log(event);
+  
   
     if (event.detail.totalProgress === 1) {
       progressBar.classList.add("hide");

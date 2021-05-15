@@ -9,6 +9,7 @@
 //import logo_mysql from "../assets/skills logos/MySQL.png";
 //import logo_nodejs from "../assets/skills logos/nodejs-1.svg";
 //import logo_git from "../assets/skills logos/git-icon.svg";
+import logo_react from "../assets/skills logos/react-2.svg"
 
 export default () => {
   const divElement = document.createElement("div");
@@ -36,7 +37,7 @@ export default () => {
              <div class="skills-element">
                  <figure>
 
-                     <img src="https://res.cloudinary.com/duhbmesjr/image/upload/v1620852824/portafolio/version%201.0/assets/html_rjv64l.png" alt="">
+                     <img src="https://res.cloudinary.com/duhbmesjr/image/upload/v1620852824/portafolio/version%201.0/assets/html_rjv64l.png" alt="logo html">
                      <div class="cloak">
                          <h3>HTML5</h3>
                       
@@ -47,7 +48,7 @@ export default () => {
              <div class="skills-element">
                  <figure>
 
-                     <img src="https://res.cloudinary.com/duhbmesjr/image/upload/v1620852822/portafolio/version%201.0/assets/css-5_ddx6qq.svg" alt="">
+                     <img src="https://res.cloudinary.com/duhbmesjr/image/upload/v1620852822/portafolio/version%201.0/assets/css-5_ddx6qq.svg" alt="logo css3">
                      <div class="cloak">
                          <h3>CSS3</h3>
                        
@@ -58,7 +59,7 @@ export default () => {
              <div class="skills-element">
                  <figure>
 
-                     <img src="https://res.cloudinary.com/duhbmesjr/image/upload/v1620852825/portafolio/version%201.0/assets/logo-javascript_giqnbx.svg" alt="">
+                     <img src="https://res.cloudinary.com/duhbmesjr/image/upload/v1620852825/portafolio/version%201.0/assets/logo-javascript_giqnbx.svg" alt="logo javascript">
                      <div class="cloak">
                          <h3>JAVASCRIPT</h3>
                         
@@ -67,20 +68,22 @@ export default () => {
 
              </div>
              <div class="skills-element">
-                 <figure>
 
-                     <img src="https://res.cloudinary.com/duhbmesjr/image/upload/v1620852827/portafolio/version%201.0/assets/webpack-icon_wi8zcy.svg" alt="">
-                     <div class="cloak">
-                         <h3>WEBPACK</h3>
-                      
-                         </div>
+                 <figure>
+                    
+                 <img src="https://res.cloudinary.com/duhbmesjr/image/upload/v1620966625/portafolio/version%201.0/assets/react-2_eed3as.svg" alt="logo react">
+                    
+                    <div class="cloak">
+                         <h3>REACT</h3>
+                     </div>
+                    
                  </figure>
 
              </div>
              <div class="skills-element">
                  <figure>
 
-                     <img src="https://res.cloudinary.com/duhbmesjr/image/upload/v1620852821/portafolio/version%201.0/assets/bootstrap-4_epdcj8.svg" alt="">
+                     <img src="https://res.cloudinary.com/duhbmesjr/image/upload/v1620852821/portafolio/version%201.0/assets/bootstrap-4_epdcj8.svg" alt="logo bootstrap">
                      <div class="cloak">
                          <h3>BOOTSTRAP</h3>
                          </div>
@@ -90,7 +93,7 @@ export default () => {
              <div class="skills-element">
                  <figure>
 
-                     <img src="https://res.cloudinary.com/duhbmesjr/image/upload/v1620852821/portafolio/version%201.0/assets/figma-1_etrjc9.svg" alt="">
+                     <img src="https://res.cloudinary.com/duhbmesjr/image/upload/v1620852821/portafolio/version%201.0/assets/figma-1_etrjc9.svg" alt="logo figma">
                      <div class="cloak">
                          <h3>FIGMA</h3>
                        
@@ -101,7 +104,7 @@ export default () => {
              <div class="skills-element">
                  <figure>
 
-                     <img src="https://res.cloudinary.com/duhbmesjr/image/upload/v1620852826/portafolio/version%201.0/assets/MySQL_xqmhrr.png" alt="">
+                     <img src="https://res.cloudinary.com/duhbmesjr/image/upload/v1620852826/portafolio/version%201.0/assets/MySQL_xqmhrr.png" alt="logo mysql">
                      <div class="cloak">
                          <h3>MySQL</h3>
                        
@@ -112,7 +115,7 @@ export default () => {
              <div class="skills-element">
                  <figure>
 
-                     <img src="https://res.cloudinary.com/duhbmesjr/image/upload/v1620852827/portafolio/version%201.0/assets/nodejs-1_dstxls.svg" alt="">
+                     <img src="https://res.cloudinary.com/duhbmesjr/image/upload/v1620852827/portafolio/version%201.0/assets/nodejs-1_dstxls.svg" alt="logo  nodejs">
                      <div class="cloak">
                          <h3>NODEJS</h3>
                        
@@ -123,10 +126,21 @@ export default () => {
              <div class="skills-element">
                  <figure>
 
-                     <img src="https://res.cloudinary.com/duhbmesjr/image/upload/v1620852824/portafolio/version%201.0/assets/git-icon_yhq3ly.svg" alt="">
+                     <img src="https://res.cloudinary.com/duhbmesjr/image/upload/v1620852824/portafolio/version%201.0/assets/git-icon_yhq3ly.svg" alt="logo git">
                      <div class="cloak">
                          <h3>GIT</h3>
                          </div>
+                 </figure>
+
+             </div>
+             <div class="skills-element">
+                 <figure>
+
+                 <img src="https://res.cloudinary.com/duhbmesjr/image/upload/v1620852827/portafolio/version%201.0/assets/webpack-icon_wi8zcy.svg" alt="logo webpack">
+                 <div class="cloak">
+                     <h3>WEBPACK</h3>
+                  
+                     </div>
                  </figure>
 
              </div>
