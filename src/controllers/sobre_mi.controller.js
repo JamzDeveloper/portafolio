@@ -1,15 +1,15 @@
-//import  views from '../views/home.html';
-//import img_sobre_mi from "../assets/Developer activity-bro.svg";
-//import logo_hmtl from "../assets/skills logos/html.png";
-//import logo_css from "../assets/skills logos/css-5.svg";
-//import logo_javascript from "../assets/skills logos/logo-javascript.svg";
-//import logo_bootstrap from "../assets/skills logos/bootstrap-4.svg";
-//import logo_webpack from "../assets/skills logos/webpack-icon.svg";
-//import logo_figma from "../assets/skills logos/figma-1.svg";
-//import logo_mysql from "../assets/skills logos/MySQL.png";
-//import logo_nodejs from "../assets/skills logos/nodejs-1.svg";
-//import logo_git from "../assets/skills logos/git-icon.svg";
-//import logo_react from "../assets/skills logos/react-2.svg"
+/*import  views from '../views/home.html';
+import img_sobre_mi from "../assets/Developer activity-bro.svg";
+import logo_hmtl from "../assets/skills logos/html.png";
+import logo_css from "../assets/skills logos/css-5.svg";
+import logo_javascript from "../assets/skills logos/logo-javascript.svg";
+import logo_bootstrap from "../assets/skills logos/bootstrap-4.svg";
+import logo_webpack from "../assets/skills logos/webpack-icon.svg";
+import logo_figma from "../assets/skills logos/figma-1.svg";
+import logo_mysql from "../assets/skills logos/MySQL.png";
+import logo_nodejs from "../assets/skills logos/nodejs-1.svg";
+import logo_git from "../assets/skills logos/git-icon.svg";
+import logo_react from "../assets/skills logos/react-2.svg"*/
 
 export default () => {
   const divElement = document.createElement("div");

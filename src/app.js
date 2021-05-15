@@ -1,6 +1,6 @@
 import "./style.css";
 import { router } from "./router/index.routes";
-//
+
 ///*nav*/
 
 /**resource nav */
