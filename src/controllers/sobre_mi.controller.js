@@ -9,7 +9,7 @@
 //import logo_mysql from "../assets/skills logos/MySQL.png";
 //import logo_nodejs from "../assets/skills logos/nodejs-1.svg";
 //import logo_git from "../assets/skills logos/git-icon.svg";
-import logo_react from "../assets/skills logos/react-2.svg"
+//import logo_react from "../assets/skills logos/react-2.svg"
 
 export default () => {
   const divElement = document.createElement("div");
@@ -70,13 +70,14 @@ export default () => {
              <div class="skills-element">
  
                  <figure>
-                    
+                 
                  <img src="https://res.cloudinary.com/duhbmesjr/image/upload/v1620966625/portafolio/version%201.0/assets/react-2_eed3as.svg" alt="logo react">
                     
                     <div class="cloak">
                          <h3>REACT</h3>
-                     </div>
                     
+                 
+                         </div>
                  </figure>
 
              </div>
