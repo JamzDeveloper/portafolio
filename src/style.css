@@ -5,6 +5,7 @@
 }
 
 :root {
+  
   --primary-text: #4252a8;
   --text-color: white;
   --text-color2: #0a0a17;
@@ -474,6 +475,7 @@
 .portafolio-container-content-projects-button a {
   font-size: 20px;
   font-weight: 400;
+  text-decoration: none;
 }
 
 .portafolio-container-card figure:hover > .portafolio-container-card-capa {

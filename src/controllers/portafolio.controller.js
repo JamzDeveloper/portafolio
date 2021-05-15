@@ -7,7 +7,7 @@ export default () => {
      <div class="portafolio-container-card">
          <figure>
 
-             <img src="https://res.cloudinary.com/duhbmesjr/image/upload/v1620852825/portafolio/version%201.0/assets/img_portafolio_uoizev.png" alt="">
+             <img src="https://res.cloudinary.com/duhbmesjr/image/upload/v1620852825/portafolio/version%201.0/assets/img_portafolio_uoizev.png" alt="portafolio JamzDeveloper">
              <div class="portafolio-container-card-capa">
                  <div class="portafolio-container-content-projects">
 
@@ -15,8 +15,8 @@ export default () => {
                      <p class="p">HTML,CSS,JavaScript</p>
 
                      <div class="portafolio-container-content-projects-button">
-                         <button><a>Vista previa</a></button>
-                         <button><a>Repositorio</a></button>
+                         <button><a href="https://www.jamzdeveloper.com/" target="__blank">Vista previa</a></button>
+                         <button><a href="https://github.com/JamzDeveloper/portafolio" target="__blank">Repositorio</a></button>
                      </div>
                  </div>
 
@@ -26,7 +26,7 @@ export default () => {
      <div class="portafolio-container-card">
          <figure>
 
-             <img src="https://res.cloudinary.com/duhbmesjr/image/upload/v1620852825/portafolio/version%201.0/assets/img_portafolio_uoizev.png" alt="">
+             <img src="https://res.cloudinary.com/duhbmesjr/image/upload/v1620852825/portafolio/version%201.0/assets/img_portafolio_uoizev.png" alt="portafolio JamzDeveloper">
              <div class="portafolio-container-card-capa">
                  <div class="portafolio-container-content-projects">
 
@@ -34,8 +34,8 @@ export default () => {
                      <p class="p">HTML,CSS,JavaScript</p>
 
                      <div class="portafolio-container-content-projects-button">
-                         <button><a>Vista previa</a></button>
-                         <button><a>Repositorio</a></button>
+                         <button><a href="https://www.jamzdeveloper.com/" target="__blank">Vista previa</a></button>
+                         <button><a href="https://github.com/JamzDeveloper/portafolio" target="__blank">Repositorio</a></button>
                      </div>
                  </div>
 
@@ -45,7 +45,7 @@ export default () => {
      <div class="portafolio-container-card">
          <figure>
 
-             <img src="https://res.cloudinary.com/duhbmesjr/image/upload/v1620852825/portafolio/version%201.0/assets/img_portafolio_uoizev.png" alt="">
+             <img src="https://res.cloudinary.com/duhbmesjr/image/upload/v1620852825/portafolio/version%201.0/assets/img_portafolio_uoizev.png" alt="portafolio JamzDeveloper">
              <div class="portafolio-container-card-capa">
                  <div class="portafolio-container-content-projects">
 
@@ -53,8 +53,8 @@ export default () => {
                      <p class="p">HTML,CSS,JavaScript</p>
 
                      <div class="portafolio-container-content-projects-button">
-                         <button><a>Vista previa</a></button>
-                         <button><a>Repositorio</a></button>
+                         <button><a href="https://www.jamzdeveloper.com/" target="__blank">Vista previa</a></button>
+                         <button><a href="https://github.com/JamzDeveloper/portafolio" target="__blank">Repositorio</a></button>
                      </div>
                  </div>
 
@@ -64,7 +64,7 @@ export default () => {
      <div class="portafolio-container-card">
          <figure>
 
-             <img src="https://res.cloudinary.com/duhbmesjr/image/upload/v1620852825/portafolio/version%201.0/assets/img_portafolio_uoizev.png" alt="">
+             <img src="https://res.cloudinary.com/duhbmesjr/image/upload/v1620852825/portafolio/version%201.0/assets/img_portafolio_uoizev.png" alt="portafolio JamzDeveloper">
              <div class="portafolio-container-card-capa">
                  <div class="portafolio-container-content-projects">
 
@@ -72,8 +72,8 @@ export default () => {
                      <p class="p">HTML,CSS,JavaScript</p>
 
                      <div class="portafolio-container-content-projects-button">
-                         <button><a>Vista previa</a></button>
-                         <button><a>Repositorio</a></button>
+                         <button><a href="https://www.jamzdeveloper.com/" target="__blank">Vista previa</a></button>
+                         <button><a href="https://github.com/JamzDeveloper/portafolio" target="__blank">Repositorio</a></button>
                      </div>
                  </div>
 
@@ -83,7 +83,7 @@ export default () => {
      <div class="portafolio-container-card">
          <figure>
 
-             <img src="https://res.cloudinary.com/duhbmesjr/image/upload/v1620852825/portafolio/version%201.0/assets/img_portafolio_uoizev.png" alt="">
+             <img src="https://res.cloudinary.com/duhbmesjr/image/upload/v1620852825/portafolio/version%201.0/assets/img_portafolio_uoizev.png" alt="portafolio JamzDeveloper">
              <div class="portafolio-container-card-capa">
                  <div class="portafolio-container-content-projects">
 
@@ -91,8 +91,8 @@ export default () => {
                      <p class="p">HTML,CSS,JavaScript</p>
 
                      <div class="portafolio-container-content-projects-button">
-                         <button><a>Vista previa</a></button>
-                         <button><a>Repositorio</a></button>
+                         <button><a href="https://www.jamzdeveloper.com/" target="__blank">Vista previa</a></button>
+                         <button><a href="https://github.com/JamzDeveloper/portafolio" target="__blank">Repositorio</a></button>
                      </div>
                  </div>
 
@@ -102,7 +102,7 @@ export default () => {
      <div class="portafolio-container-card">
          <figure>
 
-             <img src="https://res.cloudinary.com/duhbmesjr/image/upload/v1620852825/portafolio/version%201.0/assets/img_portafolio_uoizev.png" alt="">
+             <img src="https://res.cloudinary.com/duhbmesjr/image/upload/v1620852825/portafolio/version%201.0/assets/img_portafolio_uoizev.png" alt="portafolio JamzDeveloper">
              <div class="portafolio-container-card-capa">
                  <div class="portafolio-container-content-projects">
 
@@ -110,8 +110,8 @@ export default () => {
                      <p class="p">HTML,CSS,JavaScript</p>
 
                      <div class="portafolio-container-content-projects-button">
-                         <button><a>Vista previa</a></button>
-                         <button><a>Repositorio</a></button>
+                         <button><a href="https://www.jamzdeveloper.com/" target="__blank">Vista previa</a></button>
+                         <button><a href="https://github.com/JamzDeveloper/portafolio" target="__blank">Repositorio</a></button>
                      </div>
                  </div>
 
@@ -121,7 +121,7 @@ export default () => {
      <div class="portafolio-container-card">
          <figure>
 
-             <img src="https://res.cloudinary.com/duhbmesjr/image/upload/v1620852825/portafolio/version%201.0/assets/img_portafolio_uoizev.png" alt="">
+             <img src="https://res.cloudinary.com/duhbmesjr/image/upload/v1620852825/portafolio/version%201.0/assets/img_portafolio_uoizev.png" alt="portafolio JamzDeveloper">
              <div class="portafolio-container-card-capa">
                  <div class="portafolio-container-content-projects">
 
@@ -129,8 +129,8 @@ export default () => {
                      <p class="p">HTML,CSS,JavaScript</p>
 
                      <div class="portafolio-container-content-projects-button">
-                         <button><a>Vista previa</a></button>
-                         <button><a>Repositorio</a></button>
+                         <button><a href="https://www.jamzdeveloper.com/" target="__blank">Vista previa</a></button>
+                         <button><a href="https://github.com/JamzDeveloper/portafolio" target="__blank">Repositorio</a></button>
                      </div>
                  </div>
 

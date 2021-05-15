@@ -1,5 +1,5 @@
-//import  views from '../views/home.html';
-import img_home from "../assets/img_content_home.png";
+
+//import img_home from "../assets/img_content_home.png";
 import modelJamz from "../assets/models/JamzDeveloperv2.glb";
 
 export default () => {
@@ -30,10 +30,10 @@ export default () => {
        </model-viewer>
          </div>
      </div>
-     <div class="container-button-resume">
+   <!--  <div class="container-button-resume">
          <button class="resumen"><h3>DESCARGAR HOJA DE VIDA</h3></button>
          
-     </div>
+     </div>-->
  </article>`;
 
   return divElement;
