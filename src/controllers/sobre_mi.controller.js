@@ -133,7 +133,8 @@ export default () => {
 
              </div>
              <div class="skills-element">
-                 <figure>
+                
+                    <figure>
 
                  <img src="https://res.cloudinary.com/duhbmesjr/image/upload/v1620852827/portafolio/version%201.0/assets/webpack-icon_wi8zcy.svg" alt="logo webpack">
                  <div class="cloak">
